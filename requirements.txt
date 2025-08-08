@@ -1,0 +1,10 @@
+pytest==8.2.1
+requests==2.32.3
+selenium==4.23.1
+webdriver-manager==4.0.2
+pytest-html==4.1.1
+
+allure-pytest==2.13.5
+
+allure-pytest==2.13.5
+allure-commandline==2.29.0
